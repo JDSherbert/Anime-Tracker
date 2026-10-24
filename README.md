@@ -17,8 +17,8 @@
 <a href="https://web.dev/explore/progressive-web-apps"> 
   <img align="left" alt="Progressive Web App" src="https://img.shields.io/badge/Progressive%20Web%20App-black?style=for-the-badge&logo=pwa&logoColor=white&color=black&labelColor=black"> </a>
   
-<a href="https://choosealicense.com/licenses/unlicense/"> 
-  <img align="right" alt="License" src="https://img.shields.io/badge/License%20:%20Unlicense-black?style=for-the-badge&logo=unlicense&logoColor=white&color=black&labelColor=black"> </a>
+<a href="https://choosealicense.com/licenses/mit/"> 
+  <img align="right" alt="License" src="https://img.shields.io/badge/License%20:%20Mit-black?style=for-the-badge&logo=mit&logoColor=white&color=black&labelColor=black"> </a>
   
 <br></br>
 
