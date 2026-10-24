@@ -24,6 +24,8 @@
 
 -----------------------------------------------------------------------
 ## Overview
+Page: https://jdsherbert.github.io/Anime-Tracker/
+
 An ad-free anime tracker that installs to your phone's home screen. Sort shows into **Watching**, **To Watch** and **Completed**, tap **+1** after each episode, and give them a score and notes.
 
 - Search uses the free [AniList API](https://docs.anilist.co/) for titles, cover art and episode counts.
@@ -37,11 +39,6 @@ It's plain HTML/CSS/JS with no build step. Serve the folder over HTTP (service w
 ```sh
 npx serve .
 ```
-
-## Deploying (GitHub Pages)
-Settings → Pages → *Deploy from a branch* → `main` / root. The app will be at `https://jdsherbert.github.io/Anime-Tracker/`.
-
-On Android, open that link in Chrome or Samsung Internet and choose **Add to Home screen / Install app**.
 
 ## Making changes
 - Bump `VERSION` in `sw.js` when shipping changes. The app checks for new files whenever it's opened online, so this mainly clears out stale caches.
